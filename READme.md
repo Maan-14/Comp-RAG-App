@@ -6,10 +6,6 @@ This repository contains a Jupyter Notebook that demonstrates the development of
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Notebook Overview](#notebook-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,4 +17,6 @@ To run this notebook, you need to install the following dependencies:
 
 ```bash
 pip install chromadb pypdf langchain sentence-transformers
+
+
 
