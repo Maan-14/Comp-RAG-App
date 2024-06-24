@@ -17,6 +17,3 @@ To run this notebook, you need to install the following dependencies:
 
 ```bash
 pip install chromadb pypdf langchain sentence-transformers
-
-
-
